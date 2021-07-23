@@ -1,5 +1,5 @@
 # xml2json
-convert xml to json.
+convert xml to json. see usage below
 
 ```
 python xml2json.py real.xml
